@@ -1,0 +1,1 @@
+void('https://svnit786.appspot.com/'==window.location.host+window.location.pathname?alert('Drag me to your bookmarks bar!'):window.location='https://svnit786.appspot.com/'+window.location.host+window.location.pathname)
