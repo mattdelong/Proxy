@@ -1,3 +1,4 @@
+
 {
  "background": {"scripts": ["background.js"]},
  "browser_action": {
@@ -6,7 +7,6 @@
  },
  "name": "SVNIT PROXY",
  "description": "Proxy",
- // "homepage_url": "",
  "icons": {
      "16": "icon-16.png",
      "48": "icon-48.png",
